@@ -1,6 +1,7 @@
 #include <string>
 #include "DrawPad.hpp"
 #include <math.h>
+
 void DrawMain()
 {
     Clear(kColorBlack);
@@ -39,6 +40,9 @@ void DrawMain()
     DrawLine(ix1, iy1, ix2, iy2, kColorBlue);
     DrawLine(ix2, iy2, ix3, iy3, kColorBlue);
     DrawLine(ix3, iy3, ix1, iy1, kColorBlue);
+    
+    
+    //見たよーーーー
     
 }
 
