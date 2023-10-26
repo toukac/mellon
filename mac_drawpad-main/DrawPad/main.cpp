@@ -45,6 +45,7 @@ void DrawMain()
     //見たよーーーー
     DrawCircle(150, 150, 85, 0xaa00da);
     DrawCircle(200, 150, 85, 0xaa00da);
+    DrawCircle(150, 200, 85, 0xaa00da);
 }
 
 
