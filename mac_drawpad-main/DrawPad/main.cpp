@@ -43,6 +43,7 @@ void DrawMain()
     
     
     //見たよーーーー
+    DrawCircle(150, 150, 85, 0xaa00da);
     
     DrawCircle(0, 0, 45, 0x21A153);
 }
